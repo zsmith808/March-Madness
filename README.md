@@ -1,5 +1,5 @@
 # March-Madness
-BMLA March Madness project 2025
+BMLA March Madness project 2025. This project will try to predict a march madness bracket using historical data.
 
 
 Kaggle competition data set
